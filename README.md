@@ -21,6 +21,7 @@ Sleep is for the weak. Work 24/7. No feelings🧊
 > _🧠 Gosto de aprender novas tecnologias e resolver problemas reais_
 
 > _🤝 Comunico-me bem e gosto de trabalhar em equipa_
+> 
 > _🔭 Atualmente a desenvolver apps mobile e web com tecnologias modernas_
 
 🛠️ Tecnologias com que trabalhei:
