@@ -35,8 +35,10 @@
 ![MySQL (1)](https://github.com/user-attachments/assets/2fb7f480-c642-441a-bfe9-b34902591096)
 
 ## 📫 Contactos
-- Email: `unavaliableroman@gmail.com`
-- 💻 [github.com/fuxlsakrix](https://github.com/fuxlsakrix)
+
+> 📧 **Email** → _[unavaliableroman@gmail.com](mailto:unavaliableroman@gmail.com)_
+> 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
+> 📸 **Instagram** → _[@roman.fullstack.dev](https://www.instagram.com/roman.fullstack.dev/)_
 
 
 
