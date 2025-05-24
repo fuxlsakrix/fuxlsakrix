@@ -1,9 +1,16 @@
 # 👋 Olá, eu sou fixx!
 
-# 🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
-# 🧊 Sleep is for the weak. Work 24/7. No feelings
+# 🧑‍💻 fuxlsakrix — Debug mode: ON
 
-🇵🇹 Dev português | 💻 Programador Web + Mobile | 📊 3 anos de experiência
+🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
+🧊 Sleep is for the weak. Work 24/7. No feelings
+
+---
+
+## 🇵🇹 Portuguese Developer  
+💻 Web + Mobile Apps  
+📊 3 years of experience
+
 
 ## 🔎 Tecnologias & Mood
 
