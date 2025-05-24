@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou fixx!
 
-Debugging isn’t a task. It’s a lifestyle🛠️🔥
-
-Sleep is for the weak. Work 24/7. No feelings🧊
+# 🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
+# 🧊 Sleep is for the weak. Work 24/7. No feelings
 
 🇵🇹 Dev português | 💻 Programador Web + Mobile | 📊 3 anos de experiência
 
@@ -16,9 +15,10 @@ Sleep is for the weak. Work 24/7. No feelings🧊
 
 ## 🚀 Sobre mim
 
-> 👨‍💻 _Tenho 19 anos e já conto com 3 anos de experiência em programação_
-> 🧠 _Gosto de aprender novas tecnologias e resolver problemas reais_
-
+> _👨‍💻 Tenho 19 anos e já conto com 3 anos de experiência em programação_
+> 
+> _🧠 Gosto de aprender novas tecnologias e resolver problemas reais_
+> 
 > _🤝 Comunico-me bem e gosto de trabalhar em equipa_
 > 
 > _🔭 Atualmente a desenvolver apps mobile e web com tecnologias modernas_
