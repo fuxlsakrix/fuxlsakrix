@@ -2,12 +2,11 @@
 
 ---
 
-# 🧑‍💻 fuxlsakrix — Debug mode: ON
+## 🧑‍💻 fuxlsakrix — Debug mode: ON
 
 🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
 🧊 Sleep is for the weak. Work 24/7. No feelings
 
----
 
 ## 🇵🇹 Portuguese Developer  
 💻 Web + Mobile Apps  
