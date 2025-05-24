@@ -36,8 +36,10 @@
 
 ## 📫 Contactos
 
-> 📧 **Email** → _[unavaliableroman@gmail.com](mailto:unavaliableroman@gmail.com)_
+> 📧 **Email** → _[unavaliableroman@gmail.com]_
+> 
 > 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
+> 
 > 📸 **Instagram** → _[@roman.fullstack.dev](https://www.instagram.com/roman.fullstack.dev/)_
 
 
