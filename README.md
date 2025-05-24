@@ -36,7 +36,7 @@
 
 ## 📫 Contactos
 
-> 📧 **Email** → _[unavaliableroman@gmail.com]_
+> 📧 **Email** → _[unavaliableroman@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=unavaliableroman@gmail.com)_
 > 
 > 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
 > 
