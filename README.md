@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou fixx!
 
+---
+
 # 🧑‍💻 fuxlsakrix — Debug mode: ON
 
 🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
