@@ -36,7 +36,7 @@
 
 ## 📫 Contactos
 - Email: `unavaliableroman@gmail.com`
-- GitHub: [github.com/fuxlsakrix](https://github.com/fuxlsakrix)
+- 💻 [github.com/fuxlsakrix](https://github.com/fuxlsakrix)
 
 
 
