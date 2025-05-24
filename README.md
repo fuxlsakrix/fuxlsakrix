@@ -5,12 +5,12 @@
 ## 🧑‍💻 fuxlsakrix — Debug mode: ON
 
 🛠️ Debugging isn’t a task. It’s a lifestyle 🔥  
-🧊 Sleep is for the weak. Work 24/7. No feelings
+🚫 Sleep is for the weak. 🕒 Work 24/7. No feelings🧊
 
 
 ## 🇵🇹 Portuguese Developer  
-💻 Web + Mobile Apps  
-📊 3 years of experience
+💻 Web + Apps móveis  
+📊 3 anos de experiência
 
 
 ## 🔎 Tecnologias & Mood
@@ -33,4 +33,10 @@
 
 🛠️ Tecnologias com que trabalhei:
 ![MySQL (1)](https://github.com/user-attachments/assets/2fb7f480-c642-441a-bfe9-b34902591096)
+
+## 📫 Contactos
+- Email: `unavaliableroman@gmail.com`
+- GitHub: [github.com/fuxlsakrix](https://github.com/fuxlsakrix)
+
+
 
