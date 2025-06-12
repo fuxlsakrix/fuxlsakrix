@@ -32,7 +32,7 @@
 > _🔭 Atualmente a desenvolver apps mobile e web com tecnologias modernas_
 
 🛠️ Tecnologias com que trabalhei:
-[Ferramentas Dev.pdf](https://github.com/user-attachments/files/20708387/Ferramentas.Dev.pdf)
+![Ferramentas Dev](https://github.com/user-attachments/assets/88aa29fd-2061-4e3a-9a22-84fdaab937c8)
 
 ## 📫 Contactos
 
