@@ -32,7 +32,7 @@
 > _🔭 Atualmente a desenvolver apps mobile e web com tecnologias modernas_
 
 🛠️ Tecnologias com que trabalhei:
-![MySQL (1)](https://github.com/user-attachments/assets/2fb7f480-c642-441a-bfe9-b34902591096)
+[Ferramentas Dev.pdf](https://github.com/user-attachments/files/20708387/Ferramentas.Dev.pdf)
 
 ## 📫 Contactos
 
