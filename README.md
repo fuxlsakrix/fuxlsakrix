@@ -8,7 +8,7 @@
 🚫 Sleep is for the weak. 🕒 Work 24/7. No feelings🧊
 
 
-## 🇵🇹 Portuguese/Ukrainian Developer  
+## 🇵🇹 Portuguese/Ukrainian Middle Mobile Developer  
 💻 Apps móveis  
 📊 3 anos de experiência
 
@@ -32,7 +32,7 @@
 > _🔭 Atualmente a desenvolver apps mobile_
 
 🛠️ Tecnologias com que trabalhei:
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d20b9c97-2fbf-4eaf-8116-4f8195bea3d0" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d20b9c97-2fbf-4eaf-8116-4f8195bea3d0" />
 
 
 
