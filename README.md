@@ -34,7 +34,8 @@
 🛠️ Tecnologias com que trabalhei:
 
 <img width="998" height="87" alt="Captura de ecrã 2025-08-25, às 23 20 06" src="https://github.com/user-attachments/assets/aeb11765-c874-45d0-ab65-501ea1bb1481" />
-<img width="1155" height="107" alt="Captura de ecrã 2025-08-25, às 23 23 02" src="https://github.com/user-attachments/assets/6b8bfb65-0bd9-49a6-975f-655cb4f18481" />
+<img width="1148" height="107" alt="Captura de ecrã 2025-08-25, às 23 27 55" src="https://github.com/user-attachments/assets/937cd2c5-daa7-43d6-8579-6ecddcb5f14b" />
+
 
 
 
