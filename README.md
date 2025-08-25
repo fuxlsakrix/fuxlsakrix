@@ -9,16 +9,16 @@
 
 
 ## 🇵🇹/🇺🇦 Portuguese/Ukrainian Middle Mobile Developer  
-💻 Apps móveis  
+💻 Apps Móveis  
 📊 3 anos de experiência
 
 
 ## 🔎 Tecnologias & Mood
 
-> 🇬🇧 **Inglês** — _I don't know_  
-> 🎨 **UI/UX** — _Criatividade? Tá no código_  
-> 🛡️ **CyberSecurity** — _Broken Access Control? Injection? CWE-79? CWE-22?_  
-> 💻 **APP + WEB + BD** — _Let's gooo!_
+> 🇬🇧 **Inglês, Português, Ucraniano, Russo** 
+> 🎨 **UI/UX**  
+> 🛡️ **CyberSecurity - conhecimentos avançados** 
+> 💻 **APP, DataBases, Api's, Augmented Reality, Google Maps SDK** 
 
 
 ## 🚀 Sobre mim
@@ -29,15 +29,13 @@
 > 
 > _🤝 Comunico-me bem e gosto de trabalhar em equipa_
 > 
-> _🔭 Atualmente a desenvolver apps mobile_
+> _🔭 Atualmente a desenvolver Apps Mobile_
 
 🛠️ Tecnologias com que trabalhei:
 
 <img width="998" height="87" alt="Captura de ecrã 2025-08-25, às 23 20 06" src="https://github.com/user-attachments/assets/aeb11765-c874-45d0-ab65-501ea1bb1481" />
 <img width="1148" height="107" alt="Captura de ecrã 2025-08-25, às 23 27 55" src="https://github.com/user-attachments/assets/937cd2c5-daa7-43d6-8579-6ecddcb5f14b" />
-
-
-
+<img width="1141" height="97" alt="Captura de ecrã 2025-08-25, às 23 31 33" src="https://github.com/user-attachments/assets/5aeb7a2a-866b-4bc0-83c0-b4edce2bccd3" />
 
 
 
