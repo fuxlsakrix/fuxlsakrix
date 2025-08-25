@@ -32,7 +32,9 @@
 > _🔭 Atualmente a desenvolver apps mobile_
 
 🛠️ Tecnologias com que trabalhei:
-<img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" width="50" height="50" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d20b9c97-2fbf-4eaf-8116-4f8195bea3d0" />
+
+
 
 
 ## 📫 Contactos
