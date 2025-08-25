@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou fixx!
+# 👋 Olá, eu sou Roman!
 
 ---
 
@@ -8,8 +8,8 @@
 🚫 Sleep is for the weak. 🕒 Work 24/7. No feelings🧊
 
 
-## 🇵🇹 Portuguese Developer  
-💻 Web + Apps móveis  
+## 🇵🇹 Portuguese/Ukrainian Developer  
+💻 Apps móveis  
 📊 3 anos de experiência
 
 
@@ -29,7 +29,7 @@
 > 
 > _🤝 Comunico-me bem e gosto de trabalhar em equipa_
 > 
-> _🔭 Atualmente a desenvolver apps mobile e web com tecnologias modernas_
+> _🔭 Atualmente a desenvolver apps mobile_
 
 🛠️ Tecnologias com que trabalhei:
 ![Ferramentas Dev](https://github.com/user-attachments/assets/28de05ec-2a6b-443c-ace8-e323b5446e45)
@@ -41,7 +41,7 @@
 > 
 > 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
 > 
-> 📸 **Instagram** → _[@roman.fullstack.dev](https://www.instagram.com/roman.fullstack.dev/)_
+> 📸 **Instagram** → [_[@roman.fullstack.dev](https://www.instagram.com/roman.fullstack.dev/)_](https://www.instagram.com/roman.404.not.found/?igsh=MWh4cHBuYnAyMjN1Mg%3D%3D&utm_source=qr#)
 
 
 
