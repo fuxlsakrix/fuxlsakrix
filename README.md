@@ -33,10 +33,10 @@
 
 🛠️ Tecnologias com que trabalhei:
 
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/d20b9c97-2fbf-4eaf-8116-4f8195bea3d0" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d20b9c97-2fbf-4eaf-8116-4f8195bea3d0" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/55d73604-aaad-494a-9b09-532dee3aaf56" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/5893ecb5-05a7-464c-ab70-20b5067b83ad" />
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/920280ad-e6d3-4dac-9d86-67050f539db4" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/920280ad-e6d3-4dac-9d86-67050f539db4" />
 
 
 
