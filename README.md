@@ -41,7 +41,7 @@
 > 
 > 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
 > 
-> 📸 **Instagram** → [_[@roman.fullstack.dev](https://www.instagram.com/roman.fullstack.dev/)_](https://www.instagram.com/roman.404.not.found/?igsh=MWh4cHBuYnAyMjN1Mg%3D%3D&utm_source=qr#)
+> 📸 **Instagram** → https://www.instagram.com/roman.404.not.found/
 
 
 
