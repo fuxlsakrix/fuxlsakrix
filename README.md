@@ -31,7 +31,7 @@
 > 
 > _🔭 Atualmente a desenvolver Apps Mobile_
 
-🛠️ Tecnologias com que trabalhei:
+🛠️ Tecnologias, softwares com que trabalhei:
 
 <img width="998" height="87" alt="Captura de ecrã 2025-08-25, às 23 20 06" src="https://github.com/user-attachments/assets/aeb11765-c874-45d0-ab65-501ea1bb1481" />
 <img width="1148" height="107" alt="Captura de ecrã 2025-08-25, às 23 27 55" src="https://github.com/user-attachments/assets/937cd2c5-daa7-43d6-8579-6ecddcb5f14b" />
@@ -41,10 +41,6 @@
 <img width="1340" height="122" alt="Captura de ecrã 2025-08-26, às 00 49 56" src="https://github.com/user-attachments/assets/d36ea27a-4852-4336-9dec-2c954881d17a" />
 <img width="1314" height="193" alt="Captura de ecrã 2025-08-26, às 00 51 04" src="https://github.com/user-attachments/assets/56bad510-e485-4886-babd-23a93ab18bc7" />
 
-
-## 📫 Contactos
-
-> 📧 **Email** → _[unavaliableroman@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=unavaliableroman@gmail.com)_
 
 
 
