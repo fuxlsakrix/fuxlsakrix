@@ -45,10 +45,6 @@
 ## 📫 Contactos
 
 > 📧 **Email** → _[unavaliableroman@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=unavaliableroman@gmail.com)_
-> 
-> 💻 **GitHub** → _[@fuxlsakrix](https://github.com/fuxlsakrix)_
-> 
-> 📸 **Instagram** → https://www.instagram.com/roman.404.not.found/
 
 
 
