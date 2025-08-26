@@ -15,10 +15,10 @@
 
 ## 🔎 Tecnologias & Mood
 
-🇬🇧 **Inglês, Português, Ucraniano, Russo**
+🇬🇧 **Inglês, Português, Ucraniano, Russo**  
 🎨 **UI/UX**  
-🛡️ **CyberSecurity - conhecimentos avançados** 
-💻 **APP, DataBases, Api's, Augmented Reality, Google Maps SDK** 
+🛡️ **CyberSecurity - conhecimentos avançados**  
+💻 **APP, DataBases, Api's, Augmented Reality, Google Maps SDK**
 
 
 ## 🚀 Sobre mim
