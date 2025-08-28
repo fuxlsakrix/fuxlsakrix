@@ -8,9 +8,9 @@
 🚫 Sleep is for the weak. 🕒 Work 24/7. No feelings🧊
 
 
-## 🇵🇹/🇺🇦 Portuguese/Ukrainian Middle Mobile Developer  
+## 🇵🇹/🇺🇦 Portuguese/Ukrainian Junior Mobile Developer  
 💻 Apps Móveis  
-📊 3 anos de experiência
+📊 3 anos de experiência em programação
 
 
 ## 🔎 Tecnologias & Mood
